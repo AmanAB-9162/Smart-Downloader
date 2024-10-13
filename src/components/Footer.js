@@ -3,7 +3,7 @@ import './footer.css'
 
 function Footer() {
   return (
-    <div class="footer">Copyright @2022</div>
+    <div class="footer">Copyright @2024</div>
   )
 }
 
